@@ -1,0 +1,5 @@
+phplview starting
+arg1=[./logs/protected.log], arg2=[(null)]
+Checking filename [./logs/protected.log]
+Base Directory is [/Users/pronskiy/projects/php29/public_html/]
+Trying to open [/Users/pronskiy/projects/php29/public_html/./logs/protected.log] for reading

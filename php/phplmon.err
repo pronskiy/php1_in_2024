@@ -1,0 +1,12 @@
+ShowStats called.  Fancy=1
+Checking filename [logs/]
+Base Directory is [/Users/pronskiy/projects/php29/public_html/]
+About to open logdir [/Users/pronskiy/projects/php29/public_html/logs/]
+Opening [/Users/pronskiy/projects/php29/public_html/logs/protected.cnt]
+Read [31 31
+]
+About to print
+Opening [/Users/pronskiy/projects/php29/public_html/logs/index.cnt]
+Read [10 10
+]
+About to print
